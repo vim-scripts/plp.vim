@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=390
+
+PLP is yet another Perl embedder, primarily for HTML documents. Unlike with other Perl embedders, there is no need to learn a meta-syntax or object model: one can just use the normal Perl constructs. PLP runs under mod_perl for speeds comparable to those of PHP, but can also be run as a CGI script. 
+
+This syntax file adds proper PLP highlighting to vim.
